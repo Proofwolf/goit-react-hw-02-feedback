@@ -16,3 +16,4 @@ StatisticsLayout.prototype = {
   title: PropTypes.string.isRequired,
   children: PropTypes.any,
 };
+ 
